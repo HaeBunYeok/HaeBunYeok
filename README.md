@@ -2,7 +2,7 @@
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="50">
 
 # ○o。.[Haebunyeok](https://www.reddit.com/user/HaeBunYeok/)
-[![GitHub followers](https://img.shields.io/github/followers/ashleymavericks?label=Follow&style=social)](https://github.com/HaeBunYeok/?tab=follow)
+[![GitHub followers](https://img.shields.io/github/followers/HaeBunYeok?label=Follow&style=social)](https://github.com/HaeBunYeok/?tab=follow)
 [![Youtube Badge](https://img.shields.io/badge/-YouTube-red?style=social&logo=Youtube&logoColor=red&link=https://www.youtube.com/@Haebunyeok)](https://www.youtube.com/@Haebunyeok)
 [![Gmail Badge](https://img.shields.io/badge/-gmail@bestfreendover-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:gmail@bestfreendover)](mailto:email@anuragsingh.dev)
 <img src="https://komarev.com/ghpvc/?username=HaeBunYeok&label=Profile%20views&color=0e75b6&style=flat" alt="방문자수" />
