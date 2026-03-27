@@ -1,4 +1,4 @@
-## Hi there 👋
+[![chaeneolbaeneo-26-3-26.jpg](https://i.postimg.cc/KcVpykrX/chaeneolbaeneo-26-3-26.jpg)](https://postimg.cc/MX7m7GFt)
 
 <!--
 **HaeBunYeok/HaeBunYeok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
